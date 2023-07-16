@@ -43,6 +43,9 @@ class _MyHomeState extends State<MyHome> {
                   backgroundImage: NetworkImage(
                       "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixQYijBXqNxY/v1/1200x800.jpg"),
                 ),
+                  SizedBox(
+                      width: 25,
+                    ),
                 Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: SizedBox(
